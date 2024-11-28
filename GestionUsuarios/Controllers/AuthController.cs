@@ -61,7 +61,7 @@ namespace GestionUsuarios.Controllers
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginDto dto)
         {
-            var usuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.email == dto.Correo);
+            var usuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.rut == dto.Rut);
             if (usuario == null || !BCrypt.Net.BCrypt.Verify(dto.Contraseña, usuario.contraseña))
             {
                 return Unauthorized("Credenciales inválidas.");
@@ -125,7 +125,7 @@ namespace GestionUsuarios.Controllers
 
         public class LoginDto
         {
-            public string Correo { get; set; }
+            public int Rut { get; set; }
             public string Contraseña { get; set; }
             public string TipoAplicacion { get; set; }
         }

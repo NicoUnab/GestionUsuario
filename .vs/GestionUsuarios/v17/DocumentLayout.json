@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -15,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\models\\funcionariomunicipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\models\\funcionariomunicipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\models\\vecino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\models\\vecino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\models\\funcionariomunicipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\models\\funcionariomunicipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionUsuarios\\appsettings.json",
+              "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\appsettings.json",
+              "RelativeToolTip": "GestionUsuarios\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T17:07:00.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FuncionarioMunicipal.cs",
               "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Models\\FuncionarioMunicipal.cs",
               "RelativeDocumentMoniker": "GestionUsuarios\\Models\\FuncionarioMunicipal.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GestionUsuarios\\Data\\AppDbContext.cs",
@@ -74,9 +91,22 @@
               "RelativeDocumentMoniker": "GestionUsuarios\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Controllers\\AuthController.cs",
               "RelativeToolTip": "GestionUsuarios\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAYwGAAAAAyAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAWwFYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T20:30:36.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Program.cs",
+              "RelativeDocumentMoniker": "GestionUsuarios\\Program.cs",
+              "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Program.cs",
+              "RelativeToolTip": "GestionUsuarios\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:00:27.124Z",
               "EditorCaption": ""
             },
             {
@@ -94,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "GestionUsuarios\\Models\\Usuario.cs",
@@ -103,19 +133,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T20:25:46.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\appsettings.json",
-              "RelativeDocumentMoniker": "GestionUsuarios\\appsettings.json",
-              "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\appsettings.json",
-              "RelativeToolTip": "GestionUsuarios\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T00:05:09.721Z",
               "EditorCaption": ""
             }
           ]
