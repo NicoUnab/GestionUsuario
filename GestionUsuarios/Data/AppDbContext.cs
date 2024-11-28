@@ -9,6 +9,7 @@ namespace GestionUsuarios.Data
 
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Vecino> Vecinos { get; set; }
+        public DbSet<FuncionarioMunicipal> FuncionariosMunicipal { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -17,6 +18,10 @@ namespace GestionUsuarios.Data
                 .HasOne(v => v.Usuario)
                 .WithOne()
                 .HasForeignKey<Vecino>(v => v.id); // FK = PK
+            modelBuilder.Entity<FuncionarioMunicipal>()
+                .HasOne(v => v.Usuario)
+                .WithOne()
+                .HasForeignKey<FuncionarioMunicipal>(v => v.id);
         }
     }
 }

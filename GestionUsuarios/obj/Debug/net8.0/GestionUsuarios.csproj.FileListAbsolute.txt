@@ -269,3 +269,11 @@ C:\GitHub\GestionUsuario\GestionUsuarios\obj\Debug\net8.0\refint\GestionUsuarios
 C:\GitHub\GestionUsuario\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.pdb
 C:\GitHub\GestionUsuario\GestionUsuarios\obj\Debug\net8.0\GestionUsuarios.genruntimeconfig.cache
 C:\GitHub\GestionUsuario\GestionUsuarios\obj\Debug\net8.0\ref\GestionUsuarios.dll
+C:\GitHub\GestionUsuario\GestionUsuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GitHub\GestionUsuario\GestionUsuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GitHub\GestionUsuario\GestionUsuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GitHub\GestionUsuario\GestionUsuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\GitHub\GestionUsuario\GestionUsuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\GitHub\GestionUsuario\GestionUsuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GitHub\GestionUsuario\GestionUsuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\GitHub\GestionUsuario\GestionUsuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
