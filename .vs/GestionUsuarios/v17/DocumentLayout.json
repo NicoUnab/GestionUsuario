@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\GitHub\\GestionUsuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\models\\vecino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\models\\vecino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\models\\funcionariomunicipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\models\\funcionariomunicipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|c:\\github\\gestionusuario\\gestionusuarios\\models\\vecino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B46AAF7-67FF-4030-BA22-E6BF7F5594CD}|GestionUsuarios\\GestionUsuarios.csproj|solutionrelative:gestionusuarios\\models\\vecino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,9 +52,10 @@
               "RelativeDocumentMoniker": "GestionUsuarios\\appsettings.json",
               "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\appsettings.json",
               "RelativeToolTip": "GestionUsuarios\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T17:07:00.475Z"
+              "WhenOpened": "2024-11-28T17:07:00.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,8 +67,7 @@
               "RelativeToolTip": "GestionUsuarios\\Models\\FuncionarioMunicipal.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T00:18:29.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T00:18:29.418Z"
             },
             {
               "$type": "Document",
@@ -77,39 +77,26 @@
               "RelativeDocumentMoniker": "GestionUsuarios\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Data\\AppDbContext.cs",
               "RelativeToolTip": "GestionUsuarios\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T00:17:26.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "GestionUsuarios\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "GestionUsuarios\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAIAywBwAAAAJAAAA",
+              "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Controllers\\AuthController.cs*",
+              "RelativeToolTip": "GestionUsuarios\\Controllers\\AuthController.cs*",
+              "ViewState": "AQIAAGMAAAAAAAAAAADwv3YAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T20:30:36.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Program.cs",
-              "RelativeDocumentMoniker": "GestionUsuarios\\Program.cs",
-              "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Program.cs",
-              "RelativeToolTip": "GestionUsuarios\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAADwvzkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T17:00:27.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Vecino.cs",
               "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Models\\Vecino.cs",
               "RelativeDocumentMoniker": "GestionUsuarios\\Models\\Vecino.cs",
@@ -117,20 +104,31 @@
               "RelativeToolTip": "GestionUsuarios\\Models\\Vecino.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T20:28:43.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T20:28:43.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "GestionUsuarios\\Models\\Usuario.cs",
               "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Models\\Usuario.cs",
               "RelativeToolTip": "GestionUsuarios\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T20:25:46.226Z",
+              "WhenOpened": "2024-11-27T20:25:46.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Program.cs",
+              "RelativeDocumentMoniker": "GestionUsuarios\\Program.cs",
+              "ToolTip": "C:\\GitHub\\GestionUsuario\\GestionUsuarios\\Program.cs",
+              "RelativeToolTip": "GestionUsuarios\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:00:27.124Z",
               "EditorCaption": ""
             }
           ]

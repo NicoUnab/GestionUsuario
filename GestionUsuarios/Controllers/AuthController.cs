@@ -82,7 +82,16 @@ namespace GestionUsuarios.Controllers
             // Generar token (opcional: JWT)
             var tipoUsuario = esVecino ? "Vecino" : "FuncionarioMunicipal";
             var token = GenerarToken(usuario, tipoUsuario);
-            return Ok(new { Token = token });
+            var respuesta = new
+            {
+                usuario = new
+                {
+                    usuario.id,
+                    usuario.nombre
+                },
+                token
+            };
+            return Ok(respuesta);
             //return Ok(new { mensaje = "Inicio de sesión exitoso" });
         }
 
@@ -107,7 +116,7 @@ namespace GestionUsuarios.Controllers
                 issuer: _configuration["Jwt:Issuer"],
                 audience: _configuration["Jwt:Audience"],
                 claims: claims,
-                expires: DateTime.UtcNow.AddHours(2),
+                : DateTime.Now.AddDays(1),
                 signingCredentials: creds);
 
             return new JwtSecurityTokenHandler().WriteToken(token);
